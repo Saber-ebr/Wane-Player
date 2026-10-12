@@ -1,2 +1,2 @@
-# wane-player
-Wane Player is a dedicated video player for accessing and watching purchased educational video courses and recorded tutorials from Wane Academy. It provides a convenient and focused learning experience, allowing learners to watch their course content directly on their mobile devices.
+# Wane-English
+Wane English is a free educational app designed to help you improve your English through practical vocabulary, grammar lessons, and everyday expressions. Learn English anytime, anywhere, at your own pace.

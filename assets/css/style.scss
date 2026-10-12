@@ -1,0 +1,245 @@
+---
+---
+
+/* ============================================================
+   Base
+   ============================================================ */
+* { box-sizing: border-box; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #606c71;
+}
+
+a {
+  color: #3f51b5;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff6600;
+  text-decoration: underline;
+}
+
+/* ============================================================
+   Header (brand indigo gradient)
+   ============================================================ */
+.page-header {
+  color: #ffffff;
+  text-align: center;
+  background-color: #3f51b5;
+  background-image: linear-gradient(120deg, #3f51b5, #7986cb);
+  padding: 4rem 2rem;
+}
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.project-tagline {
+  margin-bottom: 0;
+  font-weight: 400;
+  opacity: 0.9;
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+/* ============================================================
+   Main Content
+   ============================================================ */
+.main-content {
+  max-width: 64rem;
+  padding: 2rem 4rem;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  word-wrap: break-word;
+  color: #2d3142;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+  color: #3f51b5;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.main-content h1 {
+  font-size: 2em;
+  border-bottom: 2px solid #3f51b5;
+  padding-bottom: 0.5rem;
+}
+
+.main-content h2 {
+  font-size: 1.5em;
+  border-bottom: 1px solid rgba(63, 81, 181, 0.2);
+  padding-bottom: 0.3rem;
+}
+
+.main-content h3 {
+  color: #5c6bc0;
+  font-size: 1.2em;
+}
+
+.main-content strong {
+  color: #303f9f;
+  font-weight: 700;
+}
+
+.main-content a {
+  color: #3f51b5;
+  font-weight: 600;
+}
+
+.main-content a:hover {
+  color: #ff6600;
+}
+
+/* ————— Code ————— */
+.main-content code {
+  padding: 2px 6px;
+  font-family: Consolas, "Liberation Mono", Menlo, monospace;
+  font-size: 0.9rem;
+  color: #3f51b5;
+  background: #f5f6fa;
+  border-radius: 4px;
+}
+
+.main-content pre {
+  padding: 0.8rem;
+  background: #1e1e2e;
+  color: #e0e0e0;
+  border-radius: 6px;
+  overflow: auto;
+}
+
+.main-content pre code {
+  background: none;
+  color: #e0e0e0;
+  padding: 0;
+}
+
+/* ————— Lists ————— */
+.main-content ul,
+.main-content ol {
+  padding-left: 1.5rem;
+}
+
+.main-content ul li::marker {
+  color: #3f51b5;
+}
+
+/* ————— Blockquotes ————— */
+.main-content blockquote {
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  color: #5a5f6e;
+  background: #fff7f0;
+  border-left: 4px solid #ff6600;
+  border-radius: 0 6px 6px 0;
+}
+
+/* ————— Tables ————— */
+.main-content table {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.main-content table th {
+  background: #3f51b5;
+  color: #ffffff;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.main-content table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid #e8eaf0;
+}
+
+.main-content table tr:nth-child(even) {
+  background: #f8f9fc;
+}
+
+/* ————— Rules ————— */
+.main-content hr {
+  border: 0;
+  height: 1px;
+  background: rgba(63, 81, 181, 0.15);
+  margin: 2rem 0;
+}
+
+/* ============================================================
+   Footer
+   ============================================================ */
+.site-footer {
+  display: none;
+  padding-top: 2rem;
+  margin-top: 2rem;
+  border-top: 1px solid rgba(63, 81, 181, 0.15);
+  color: #5a5f6e;
+}
+
+.site-footer a {
+  color: #3f51b5;
+}
+
+.site-footer a:hover {
+  color: #ff6600;
+}
+
+/* ============================================================
+   Responsive
+   ============================================================ */
+@media screen and (max-width: 42em) {
+  .page-header {
+    padding: 2rem 1rem;
+  }
+  .project-name {
+    font-size: 1.75rem;
+  }
+  .main-content {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
+  .main-content table th,
+  .main-content table td {
+    padding: 0.5rem 0.6rem;
+  }
+}
+
+/* ============================================================
+   Hide unwanted header elements
+   ============================================================ */
+
+/* 1. حذف "Skip to the content" */
+#skip-to-content {
+  display: none !important;
+}
+
+/* 2. حذف "View on GitHub" */
+.page-header .btn {
+  display: none !important;
+}
+
+/* اضافی: مخفی کردن دکمه‌های دانلود (اگه هستن) */
+.page-header .downloads,
+.page-header .zip-download-container {
+  display: none !important;
+}
