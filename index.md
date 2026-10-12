@@ -10,7 +10,7 @@ Last updated: **October 12, 2026**
 
 ## Introduction
 
-This document is the Privacy Policy for the **Wane Player** application (hereinafter referred to as "the App"), developed by **Sirvan Bodagh**. The App allows users with an existing Wane Academy account to access educational content made available to them, including video lessons, audio files, text materials, and downloadable resources.
+This document is the Privacy Policy for the **Wane Player** application (hereinafter referred to as "the App"), developed by **Sirvan Bodagh**. The App allows users with an existing Wane Player account to access educational content made available to them, including video lessons, audio files, text materials, and downloadable resources.
 
 As the developer, I respect your privacy and am committed to being transparent about the information the App handles and how it is used. This Privacy Policy explains what information is processed, why it is needed, how it is protected, and what options are available to you.
 
@@ -18,17 +18,16 @@ As the developer, I respect your privacy and am committed to being transparent a
 
 ### 1.1. Account Information
 
-To use the App, you must sign in using a **36-character access token** associated with your Wane Academy account. This token is used to authenticate your identity and determine whether your account is authorized to access the App's content.
+To use the App, you must sign in using a **36-character access token** associated with your Wane Player account. This token is used to authenticate your identity and determine whether your account is authorized to access the App's content.
 
-The following information may be associated with your account on Wane Academy's servers:
+The following information may be associated with your account on Wane Player's servers:
 
 - **Full name**
-- **Mobile phone number**
 - **Email address**
 - **Content access information** (used to determine which educational materials are available to your account)
 - **Account status** (active or inactive)
 
-This information is maintained through the Wane Academy system and is used by the App only as needed to authenticate your account and provide access to authorized educational content.
+This information is maintained through the Wane Player system and is used by the App only as needed to authenticate your account and provide access to authorized educational content.
 
 The App does not independently collect or request additional information such as:
 
@@ -45,7 +44,6 @@ To provide the App's features and improve your experience, the following informa
 - **Access token** (used to maintain your authenticated session)
 - **Device token** (a randomly generated identifier used to associate your session with a device)
 - **Cached account information** (such as your name and content access information, where needed for display)
-- **Selected language** (English, Persian, or Kurdish)
 - **Selected theme** (Light or Dark)
 - **Notification settings** (including inactivity reminder preferences)
 - **Notification schedule** (the next scheduled reminder time)
@@ -88,7 +86,7 @@ The Wane Player App does not integrate third-party advertising, analytics, behav
 - **Facebook SDK**, AppsFlyer, or Adjust
 - **Crashlytics** or other third-party crash-reporting services
 
-Educational content and account authentication are handled through my Wane Academy hosting infrastructure at **waneacademy.com**.
+Educational content and account authentication are handled through my Wane Player hosting infrastructure at my secure hostin server.
 
 However, standard network infrastructure and service providers involved in hosting or delivering the App's content may process technical information, such as IP addresses, as part of normal operation.
 
@@ -123,7 +121,7 @@ The Wane Player App is designed for educational use and may be suitable for chil
 
 The App does not display advertisements, offer in-app purchases, or provide features for users to communicate with strangers or other App users.
 
-However, the App uses an existing Wane Academy account for authentication and may process account information, including a user's name and contact details, through the associated system.
+However, the App uses an existing Wane Player account for authentication and may process account information, including a user's name and contact details, through the associated system.
 
 I aim to minimize the information processed by the App and to protect users' privacy. The App's suitability for children and compliance with applicable laws, including the **Children's Online Privacy Protection Act (COPPA)** in the United States and applicable children's data protection requirements under the **General Data Protection Regulation (GDPR)** in the European Union, depend on its actual operation and the applicable legal requirements.
 
@@ -133,13 +131,13 @@ You have the following options regarding your information.
 
 ### 7.1. Request a Copy of Your Data
 
-You may contact me to request information about the personal data associated with your account that I can access through the Wane Academy system.
+You may contact me to request information about the personal data associated with your account that I can access through the Wane Player system.
 
 I will review and respond to your request within a reasonable time, subject to applicable legal requirements.
 
 ### 7.2. Request Account Deletion
 
-If you wish to delete your Wane Academy account and its associated personal information, please contact me using the email address provided in Section 9.
+If you wish to delete your Wane Player account and its associated personal information, please contact me using the email address provided in Section 9.
 
 I will review your request and process it within 30 days, where applicable, subject to legal retention requirements and any necessary account-management procedures.
 
@@ -152,7 +150,7 @@ To clear information stored locally on your device, you can:
 1. Use **Settings → Full App Reset**, if this option is available in your App version.
 2. **Uninstall the App** from your device.
 
-Uninstalling the App removes its local data but does not automatically delete your Wane Academy account or information retained on the server. To request account deletion, please follow the instructions in Section 7.2.
+Uninstalling the App removes its local data but does not automatically delete your Wane Player account or information retained on the server. To request account deletion, please follow the instructions in Section 7.2.
 
 ### 7.4. Disable Notifications
 
