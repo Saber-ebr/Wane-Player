@@ -10,7 +10,7 @@ Last updated: **October 12, 2026**
 
 ## Introduction
 
-This document is the Privacy Policy for the **Wane Player** application (hereinafter referred to as "the App"), developed by **Sirvan Bodagh**. The App allows users with an existing Wane Player account to access educational content made available to them, including video lessons, audio files, text materials, and downloadable resources.
+This document is the Privacy Policy for the **Wane Player** application (hereinafter referred to as "the App"), developed by **Sirvan Bodagh**. The App allows users with an existing Wane Player account to access educational content made available to them, including video lessons, audio files, and text materials.
 
 As the developer, I respect your privacy and am committed to being transparent about the information the App handles and how it is used. This Privacy Policy explains what information is processed, why it is needed, how it is protected, and what options are available to you.
 
